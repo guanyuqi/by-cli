@@ -6,6 +6,14 @@ By Cli 是八友前端vue脚手架
 
 # 基础
 
+## 安装
+
+```shell
+npm install bycli -g
+```
+
+
+
 ## 创建项目
 
 你可以使用 `bycli create` 命令进行快速生成vue项目模板
